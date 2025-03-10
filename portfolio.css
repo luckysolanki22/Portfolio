@@ -197,7 +197,7 @@ a {
     width: 30%;
     height: 300px;
     margin-right: 20%;
-    background-image: url('/ee.png');
+    background-image: url('ee.png');
     background-position: top;
     background-size: cover;
     background-position: center;
